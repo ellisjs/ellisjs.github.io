@@ -1,24 +1,25 @@
-languageCode = "en"
-languageName = "English"
+languageCode = "zh-Hans"
+hasCJKLanguage = true # 自动检测内容中的中文/日文/韩文
+languageName = "简体中文"
 languageDirection = "ltr"
-weight = 1
+weight = 2
 
-title = "Congo"
+title = "Ellis.js"
 # copyright = "Copy, _right?_ :thinking_face:"
 
 [params]
-  dateFormat = "2 January 2006"
+  dateFormat = "2006年1月2日"
 
   # mainSections = ["section1", "section2"]
   # description = "My awesome website"
 
 [params.author]
-  # name = "Your name here"
-  # image = "img/author.jpg"
-  # headline = "I'm only human"
+  name = "Ellis.js"
+  image = "img/author.jpg"
+  headline = "软件工程师"
   # bio = "A little bit about you"
-  # links = [
-  #   { email = "mailto:hello@your_domain.com" },
+  links = [
+    { email = "mailto:781698561@qq.com" },
   #   { link = "https://link-to-some-website.com/" },
   #   { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
   #   { apple = "https://www.apple.com" },
@@ -30,7 +31,7 @@ title = "Congo"
   #   { facebook = "https://facebook.com/username" },
   #   { flickr = "https://www.flickr.com/photos/username/" },
   #   { foursquare = "https://foursquare.com/username" },
-  #   { github = "https://github.com/username" },
+  { github = "https://github.com/ellisjs" },
   #   { gitlab = "https://gitlab.com/username" },
   #   { google = "https://www.google.com/" },
   #   { google-scholar = "https://scholar.google.com/citations?user=user-id" },
@@ -63,4 +64,4 @@ title = "Congo"
   #   { x-twitter = "https://twitter.com/username" },
   #   { youtube = "https://youtube.com/username" },
   #   { xing = "https://xing.com/profile/username" },
-  # ]
+  ]

@@ -2,6 +2,8 @@
 date = '2024-09-13T21:44:09+08:00'
 draft = false
 title = 'NestJS 与 Next.js 全面比较'
+categories = ["框架"]
+tags = ["JavaScript"]
 +++
 
 在构建现代 Web 应用程序时，开发人员经常面临选择正确框架的问题。JavaScript 生态系统中最受欢迎的两个选择是 NestJS 和 Next.js。尽管两者都构建在 JavaScript/TypeScript 之上，但它们的用途不同，用于不同类型的应用程序。
