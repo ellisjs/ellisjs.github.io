@@ -16,8 +16,8 @@ title = "Ellis.js"
 [params.author]
   name = "Ellis.js"
   image = "img/author.jpg"
-  headline = "软件工程师"
-  # bio = "A little bit about you"
+  headline = "数据工程师"
+  bio = "日拱一卒，不期速成。"
   links = [
     { email = "mailto:781698561@qq.com" },
   #   { link = "https://link-to-some-website.com/" },
