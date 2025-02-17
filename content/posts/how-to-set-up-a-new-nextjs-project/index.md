@@ -1,9 +1,9 @@
 +++
 date = '2024-09-14T21:44:09+08:00'
 draft = false
-title = '如何设置新的 Next.js 项目'
+title = 'Next.js: 如何设置新的项目'
 categories = ["框架"]
-tags = ["JavaScript"]
+tags = ["JavaScript", "Next.js"]
 +++
 ## [系统](https://nextjs.org/docs/app/getting-started/installation#system-requirements)要求
 
