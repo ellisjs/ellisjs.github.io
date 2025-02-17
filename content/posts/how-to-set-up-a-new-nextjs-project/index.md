@@ -119,7 +119,7 @@ Next.js 包含一个自定义的 TypeScript 插件和类型检查器，VSCode �
 2. 搜索 "TypeScript: 选择 TypeScript 版本"
 3. 选择“使用工作区版本”
 
-![](https://cdn.nlark.com/yuque/0/2025/png/2984279/1739173655563-3bd211d0-0d2a-4d90-9a5d-85745147c9b8.png)
+![](image.png)
 
 现在，在编辑文件时，将启用自定义插件。当运行 `next build` 时，将使用自定义类型检查器。
 
