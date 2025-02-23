@@ -1,9 +1,9 @@
 +++
 date = '2024-12-15T22:10:09+08:00'
 draft = false
-title = 'Gravitino概述'
+title = 'Apache Gravitino 概述'
 categories = ["数据治理"]
-tags = ["JavaScript", "Next.js", "Java", "Python"]
+tags = ["Next.js", "Java"]
 +++
 
 ## 介绍
