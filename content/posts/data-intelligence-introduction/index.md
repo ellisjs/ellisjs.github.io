@@ -2,7 +2,7 @@
 date = '2025-03-03T01:25:50+08:00'
 draft = false
 title = '数据智能入门：什么是数据智能？'
-categories = ["数据智能"]
+categories = ["数据"]
 tags = ["数据智能"]
 +++
 
